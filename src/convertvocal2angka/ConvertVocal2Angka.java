@@ -3,6 +3,9 @@ import java.util.Scanner;
 import java.util.Locale;
 public class ConvertVocal2Angka {
 
+    public static void main(String[] args) {
+        
+    }
     private static void tampilJudul (String identitas){
         System.out.println("Identitas : "+ identitas);
         
